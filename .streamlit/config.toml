@@ -1,0 +1,11 @@
+[theme]
+# No "base" on purpose: Streamlit follows the system setting and the user can
+# switch Light/Dark in the app menu (top right) > Settings > Theme.
+# The app reads that choice so its own colours always match the widgets.
+primaryColor = "#7c3aed"
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false
