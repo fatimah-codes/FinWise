@@ -1,0 +1,8 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.db
+.finwise_cache.db
+.streamlit/secrets.toml
